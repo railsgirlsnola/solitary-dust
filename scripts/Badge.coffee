@@ -13,6 +13,7 @@
 # Author:
 #   Solitary-Dust
 
+# Badgers and badges
 meritBadges = [
   "http://theshroom.files.wordpress.com/2011/09/badger.jpg",
   "http://www.ejphoto.com/images_CA/CA_Badger04.jpg",
